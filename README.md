@@ -258,6 +258,8 @@ Subsystem	sftp	/usr/lib/openssh/sftp-server
 运行起来的web服务：
 
 ![](https://raw.githubusercontent.com/Yof3ng/images/master/img/20181103233718.png)
+web目录下的题目环境：
+![](https://raw.githubusercontent.com/Yof3ng/images/master/img/20181104005557.png)
 
 运行在同一docker容器内的pwn:
 
